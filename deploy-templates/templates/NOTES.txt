@@ -1,0 +1,1 @@
+1. Application demo-fastapi has been successfully deployed!!
